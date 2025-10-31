@@ -1,4 +1,4 @@
-High-Level Problem
+A High-Level Problem
 
 The supermarket management wants to analyze and optimize the performance of its checkout system.
 Currently, customers often experience long waiting times during busy hours, which leads to dissatisfaction and potential loss of sales.
